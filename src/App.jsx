@@ -6,7 +6,7 @@ import Home from './pages/Home/Home';
 import Cart from './pages/Cart/Cart';
 import PlaceOrder from './pages/PlaceOrder/PlaceOrder';
 import Footer from './components/Footer/Footer';
-import Contact from './components/Contact/Contact';
+import Contact from './components/contact/Contact';
 import Login from './components/Login/Login';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
