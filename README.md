@@ -1,4 +1,4 @@
-# 🏪 Bhavani Medicals and General Store – Online Ordering Platform
+# 🏪 React-Based Medical Store Web Application
 
 A responsive web application developed for Sri Bhavani Medicals and General Stores to enable digital ordering of medicines and general products. This platform allows users to browse products, add items to a cart, and place orders online with a seamless user experience.
 
