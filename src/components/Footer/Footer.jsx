@@ -35,14 +35,14 @@ const Footer = () => {
             <h2>Contact Us</h2>
             <ul>
             <li>9959408946</li>
-            <li>Contact: SriBhavani-Medicals.onrender.com</li>
+            <li>bhavanimedicalstore.netlify.com</li>
             </ul>
         </div>
       </div>
       <hr/>
-      <p className="footer-copyright">Copyright 2024 &#169; SriBhavaniMedicals.onrender.com. All Rights Reserved</p>
+      <p className="footer-copyright">Copyright 2024 &#169; bhavanimedicalstore.netlify.com. All Rights Reserved</p>
     </div>
   )
 }
 
-export default Footer
+export default Footer;
